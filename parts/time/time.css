@@ -1,0 +1,30 @@
+/* day css */
+.time{
+  height: 75px;
+  border-bottom: 5px solid #FF5722;
+}
+.day {
+  width: 14.285%;
+  height: 75px;
+  float: left;
+  text-align: center;
+  font-size: 1.5vw;
+  line-height: 75px;
+  color: white;
+  background-color: rgb(0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.45);
+
+}
+.today{
+  background-color: #FF5722;
+  -webkit-box-shadow: 0 0 30px 0 rgba(50, 50, 50, 1);
+  -o-box-shadow:    0 0 30px 0 rgba(50, 50, 50, 1);
+  -moz-box-shadow:    0 0 30px 0 rgba(50, 50, 50, 1);
+  box-shadow:         0 0 30px 0 rgba(50, 50, 50, 1);
+}
+
+@media screen and (max-width: 900px) {
+  .time {
+    display: none;
+  }
+}

@@ -1,0 +1,93 @@
+.menu{
+	width: 100vw;
+	height: 75px;
+
+	background: -webkit-linear-gradient(top,rgba(0,0,0, .01),rgba(0,0,0, .6)); /*Safari 5.1-6*/
+  background: -o-linear-gradient(top,rgba(0,0,0,.01),rgba(0,0,0, .6)); /*Opera 11.1-12*/
+  background: -moz-linear-gradient(top,rgba(0,0,0,.01),rgba(0,0,0, .6)); /*Fx 3.6-15*/
+  background: linear-gradient(to top, rgba(0,0,0,.01), rgba(0,0,0, .6)); /*Standard*/
+	color: white;
+	position: fixed;
+	line-height: 75px;
+	font-size: 20px;
+	text-align: center;
+	-webkit-transition: ease-out 0.5s;
+	-moz-transition: ease-out 0.5s;
+	-o-transition: ease-out 0.5s;
+	transition: ease-out 0.5s;
+	z-index: +1;
+}
+.menu ul li:nth-child(1){
+	font-size: 50px;
+	color:#FF5722;
+	margin:0 20px;
+	width: 160px;
+}
+.menu ul li{
+	height: 100%;
+	float: left;
+	width: 17%;
+	max-width:150px;
+}
+.menu ul li a{
+	font-size: 20px;
+	text-decoration: none;
+	color: white;
+}
+.menu ul li a:hover{
+	color:#FF5722;
+}
+.fixed{
+	height: 30px;
+	line-height: 30px;
+	-webkit-transition: ease-out 0.5s;
+	-moz-transition: ease-out 0.5s;
+	-o-transition: ease-out 0.5s;
+	transition: ease-out 0.5s;
+}
+.fixed ul :nth-child(1){
+		margin:0 10px;
+}
+.fixed ul li:nth-child(1){
+	font-size: 20px;
+	margin:0;
+}
+.meierijicon{
+	width: 75vw;
+	max-width: 960px;
+	position:absolute;
+  left: 0;
+  right: 0;
+	top:30vh;
+  margin: 0 auto;
+}
+.meierijicon img{
+  width:100%;
+  height:auto;
+}
+.toggle-menu{
+	display: none;
+}
+@media (max-width: 700px) {
+  .menu {
+    display: none;
+  }
+
+	.toggle-menu {
+		display: block;
+		position: fixed;
+		right:5px;
+		top:5px;
+		height: 40px;
+		width: 40px;
+		z-index: +2;
+		background-image: url(../img/menuicon.png);
+
+		-webkit-transition-duration: 0.5s;
+		-moz-transition-duration: 0.5s;
+		-o-transition-duration: 0.5s;
+		transition-duration: 0.5s;
+
+	}
+
+}

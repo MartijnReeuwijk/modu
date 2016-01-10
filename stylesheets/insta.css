@@ -1,0 +1,35 @@
+.foodimage {
+  width: calc(25% - 4px);
+  height: 250px;
+  margin:2px;
+  margin-bottom: -8px;
+
+  display: inline-block;
+  background-color: red;
+
+}
+.foodholder {
+  width:100%;
+  margin: 0 auto;
+
+}
+.fs {
+    font-size: 0;
+}
+@media screen and (max-width: 1100px) {
+  .foodimage {
+    width: calc(33.333% - 4px);
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .foodimage {
+    width: calc(50% - 4px);
+  }
+}
+
+@media screen and (max-width: 480px){
+  .foodimage {
+    width: calc(100% - 4px);
+  }
+}
