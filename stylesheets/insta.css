@@ -3,19 +3,29 @@
   height: 250px;
   margin:2px;
   margin-bottom: -8px;
-
   display: inline-block;
-  background-color: red;
+
+  background-image: url(http://lorempixel.com/500/500/food/);
+  background-size: cover;
+  background-size: 125%;
+  background-repeat: no-repeat;
+  background-position: center center;
+
+  -webkit-transition: all .5s ease-in-out;
+  -moz-transition: all .5s ease-in-out;
+  -o-transition: all .5s ease-in-out;
+  transition: all .5s ease-in-out;
 
 }
-.foodholder {
-  width:100%;
-  margin: 0 auto;
 
+.foodimage:hover {
+  background-size: 100%;
 }
 .fs {
-    font-size: 0;
+  font-size: 0;
+
 }
+
 @media screen and (max-width: 1100px) {
   .foodimage {
     width: calc(33.333% - 4px);
