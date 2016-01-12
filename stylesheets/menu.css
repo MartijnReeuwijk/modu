@@ -3,9 +3,9 @@
 	height: 75px;
 
 	background: -webkit-linear-gradient(top,rgba(0,0,0, .01),rgba(0,0,0, .6)); /*Safari 5.1-6*/
-  background: -o-linear-gradient(top,rgba(0,0,0,.01),rgba(0,0,0, .6)); /*Opera 11.1-12*/
-  background: -moz-linear-gradient(top,rgba(0,0,0,.01),rgba(0,0,0, .6)); /*Fx 3.6-15*/
-  background: linear-gradient(to top, rgba(0,0,0,.01), rgba(0,0,0, .6)); /*Standard*/
+	background: -o-linear-gradient(top,rgba(0,0,0,.01),rgba(0,0,0, .6)); /*Opera 11.1-12*/
+	background: -moz-linear-gradient(top,rgba(0,0,0,.01),rgba(0,0,0, .6)); /*Fx 3.6-15*/
+	background: linear-gradient(to top, rgba(0,0,0,.01), rgba(0,0,0, .6)); /*Standard*/
 	color: white;
 	position: fixed;
 	line-height: 75px;
@@ -46,7 +46,7 @@
 	transition: ease-out 0.5s;
 }
 .fixed ul :nth-child(1){
-		margin:0 10px;
+	margin:0 10px;
 }
 .fixed ul li:nth-child(1){
 	font-size: 20px;
@@ -56,22 +56,22 @@
 	width: 75vw;
 	max-width: 960px;
 	position:absolute;
-  left: 0;
-  right: 0;
+	left: 0;
+	right: 0;
 	top:30vh;
-  margin: 0 auto;
+	margin: 0 auto;
 }
 .meierijicon img{
-  width:100%;
-  height:auto;
+	width:100%;
+	height:auto;
 }
 .toggle-menu{
 	display: none;
 }
 @media (max-width: 700px) {
-  .menu {
-    display: none;
-  }
+	.menu {
+		display: none;
+	}
 
 	.toggle-menu {
 		display: block;

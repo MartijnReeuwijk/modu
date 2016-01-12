@@ -13,13 +13,13 @@
     overflow:hidden;
 }
 .accordion h1 {
-text-align: center;
-font-size: 2rem;
+    text-align: center;
+    font-size: 2rem;
 }
 
 /*----- Section Titles -----*/
 .accordion-section-title {
-    padding:26px;
+    padding:20px;
     display:inline-block;
     background:#333238;
     transition:all linear 0.15s;
@@ -27,7 +27,7 @@ font-size: 2rem;
     text-decoration:none;
 
     text-align: center;
-    font-size:2.5rem;
+    font-size:2rem;
     text-shadow:0 1px 0 #1a1a1a;
     color:#fff;
 }
@@ -48,11 +48,11 @@ font-size: 2rem;
     display:none;
 }
 .prijs {
-  width:65px;
-  margin: 0;
-  font-size: 1rem;
-  background-color: #333238;
-  color: white;
+    width:65px;
+    margin: 0;
+    font-size: 1rem;
+    background-color: #333238;
+    color: white;
 }
 .prijs h4 {
     margin-left:7px;
