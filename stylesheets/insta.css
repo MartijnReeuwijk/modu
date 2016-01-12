@@ -3,7 +3,7 @@
   height: 250px;
   margin:2px;
 
-float: left;
+  float: left;
 
   background-image: url(http://lorempixel.com/500/500/food/);
   background-size: cover;
@@ -16,6 +16,33 @@ float: left;
   -o-transition: all .5s ease-in-out;
   transition: all .5s ease-in-out;
 }
+
+.foodimage:nth-child(1) {
+  background-image: url(../img/door/voor1.jpg);
+}.foodimage:nth-child(2) {
+  background-image: url(../img/door/voor2.jpg);
+}.foodimage:nth-child(3) {
+  background-image: url(../img/door/voor3.jpg);
+}.foodimage:nth-child(4) {
+  background-image: url(../img/door/voor4.jpg);
+}.foodimage:nth-child(5) {
+  background-image: url(../img/door/sfeer1.jpg);
+}.foodimage:nth-child(6) {
+  background-image: url(../img/door/sfeer3.jpg);
+}.foodimage:nth-child(7) {
+  background-image: url(../img/door/na3.jpg);
+}.foodimage:nth-child(8) {
+  background-image: url(../img/door/na4.jpg);
+}.foodimage:nth-child(9) {
+  background-image: url(../img/door/na5.jpg);
+}.foodimage:nth-child(10) {
+  background-image: url(../img/door/hoofd4.jpg);
+}.foodimage:nth-child(11) {
+  background-image: url(../img/door/hoofd2.jpg);
+}.foodimage:nth-child(12) {
+  background-image: url(../img/door/hoofd1.jpg);
+}
+
 
 .foodimage:hover {
   background-size: 100%;
@@ -40,7 +67,7 @@ float: left;
 
 .fs {
   font-size: 0;
-    display: inline-block;
+  display: inline-block;
 
 }
 
