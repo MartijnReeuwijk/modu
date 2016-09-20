@@ -109,9 +109,9 @@
     $(".top").vegas({
         slides: [
             { src: "img/vit.jpg" },
+            { src: "img/champ.jpeg" },
             { src: "img/geit.jpg" },
-            { src: "img/slide3.jpg" },
-            { src: "img/slide4.jpg" }
+            { src: "img/sfeer.jpeg" }
         ]
     });
 

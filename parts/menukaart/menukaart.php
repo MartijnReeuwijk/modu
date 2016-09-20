@@ -20,61 +20,61 @@
       <div id="accordion-1" class="accordion-section-content">
 
         <section class="gerecht">
-          <article class="prijs"><h4>€20</h4></article>
+          <article class="prijs"><h4>&#8364;9.50</h4></article>
           <p>Carpaccio van dun gesneden ossenhaas met pesto, old Alkmaar, rucola en olijfjes</p>
         </section>
         <p></p>
 
         <section class="gerecht">
-          <article class="prijs"><h4>€20</h4></article>
-          <p>Paddensoelenroomsoep roomsoepje van diverse paddenstoelen</p>
+          <article class="prijs"><h4>&#8364;9.50</h4></article>
+          <p>Gado Gado salade groentensalade met ei, emping, pindadressing, gerookte kip en Thai curry bites</p>
         </section>
         <p></p>
 
         <section class="gerecht">
-          <article class="prijs"><h4>€20</h4></article>
-          <p>Garnalenkroketjes 3 stuks met peterselie-mayo</p>
+          <article class="prijs"><h4>&#8364;9.50</h4></article>
+          <p>Garnalenkroketjes drie stuks met peterselie-mayo</p>
         </section>
         <p></p>
 
         <section class="gerecht">
-          <article class="prijs"><h4>€20</h4></article>
-          <p>Pompoensoep met crunch van pinda, taugé en kokosroom</p>
+          <article class="prijs"><h4>&#8364;5.50</h4></article>
+          <p>De dagsoep</p>
         </section>
         <p></p>
 
         <section class="gerecht">
-          <article class="prijs"><h4>€20</h4></article>
-          <p>Seizoensalade paddenstoelenkroketjes op mesclunsla met balsamico en vijgencompote</p>
+          <article class="prijs"><h4>&#8364;9</h4></article>
+          <p>Seizoensalade mesclun /geitenkaas/ gerookte kip / mosterd-dille dressing</p>
         </section>
         <p></p>
 
         <section class="gerecht">
-          <article class="prijs"><h4>€20</h4></article>
-          <p>Wildplankje coppa van wild zwijn, terinne van eend en port, notenfuet, gerookte eendenborst en hertenham met vijgencompôte </p>
+          <article class="prijs"><h4>&#8364;11.50</h4></article>
+          <p>De verukkelijke vijf coppa di parma, chorizo, spinata, notenfuet, salami milano</p>
         </section>
         <p></p>
 
         <section class="gerecht">
-          <article class="prijs"><h4>€20</h4></article>
+          <article class="prijs"><h4>&#8364;8.50</h4></article>
           <p>Champignons gevuld met gekruid gehakt en gegratineerd met kaas</p>
         </section>
         <p></p>
 
         <section class="gerecht">
-          <article class="prijs"><h4>€20</h4></article>
-          <p>Garnalen “op Spaanse wijze” in knoflookolie met rode peper en chorizo</p>
+          <article class="prijs"><h4>&#8364;9.50</h4></article>
+          <p>Garnalen &ldquo;op Spaanse wijze&rdquo; in knoflookolie met rode peper en chorizo</p>
         </section>
         <p></p>
 
         <section class="gerecht">
-          <article class="prijs"><h4>€20</h4></article>
+          <article class="prijs"><h4>&#8364;5.50</h4></article>
           <p>Uiensoep met een kaasdakje</p>
         </section>
         <p></p>
 
         <section class="gerecht">
-          <article class="prijs"><h4>€20</h4></article>
+          <article class="prijs"><h4>&#8364;9.50</h4></article>
           <p>Ceasarsalade gerookte zalm met oude kaas, gebakken spek, ceasardressing en een gepocheerd eitje</p>
         </section>
         <p></p>
@@ -96,56 +96,56 @@
 
       <section class="gerecht">
         <article class="prijs"><h4>&#8364;18,50</p></h4></article>
-        <p>Zalmfilet met sausje van franse mosterd &basilicum</p>
+        <p>Zalmfilet met sausje van franse mosterd & basilicum</p>
       </section>
       <p></p>
 
       <section class="gerecht">
-        <article class="prijs"><h4>&#8364;11,50</h4></article>
-        <p>Zeetong in roomboter gebakken met ravigotte saus</p>
+        <article class="prijs"><h4>&#8364;19,75</h4></article>
+        <p>Slibtong drie stuks in roomboter gebakken met ravigottesaus</p>
       </section>
       <p></p>
 
       <section class="gerecht">
-        <article class="prijs"><h4>&#8364;19,00</h4></article>
-        <p>Hertenstoof stoverij van hert, seizoensgroenten & bockbier</p>
+        <article class="prijs"><h4>&#8364;19,50</h4></article>
+        <p>Ierse Kogelbiefstuk Shannon-Aberdeen-Angusbiefstuk met bearnaisesaus</p>
       </section>
       <p></p>
 
       <section class="gerecht">
-        <article class="prijs"><h4>&#8364;18,50</h4></article>
+        <article class="prijs"><h4>&#8364;23,50</h4></article>
         <p>Tournedos biefstuk van de haas met saus van rode wijn en sjalot</p>
       </section>
       <p></p>
 
       <section class="gerecht">
         <article class="prijs"><h4>&#8364;21,00</h4></article>
-        <p>Hertenbiefstuk op licht zoete zuurkool, puree & saus van rode wijn en paddenstoelentapenade</p>
+        <p>Sat&#233; van gemarineerde stukjes varkenshaas met sat&#233;saus, atjar, kroepoek en seroendeng </p>
       </section>
       <p></p>
 
       <section class="gerecht">
-        <article class="prijs"><h4>&#8364;18,50</h4></article>
-        <p>Hazenbout ouderwets lekker… met aardappelpuree en rode kool</p>
+        <article class="prijs"><h4>&#8364;19</h4></article>
+        <p>Varkenshaasje rose gebakken met een saus van gorgonzola</p>
       </section>
       <p></p>
 
       <section class="gerecht">
-        <article class="prijs"><h4>&#8364;16,50</p></h4></article>
-        <p>Saté gemarineerde varkenshaas met satésaus, atjar en kroeppoek.</p>
+        <article class="prijs"><h4>&#8364;18</p></h4></article>
+        <p>Kaasfondue van emmethaler, gruy&egrave;re en roquefort </p>
       </section>
       <p></p>
 
       <section class="gerecht">
         <article class="prijs"><h4>&#8364;18,50</p></h4></article>
-        <p>Eendenborst met groene asperges en saus van appelstroop en zoet-zure uitjes</p>
+        <p>Ravioli met een vulling van doperwten, ricotta & munt, rucola en pesto</p>
       </section>
       <p></p>
 
 
       <section class="gerecht">
-        <article class="prijs"><h4>&#8364;19,00</p></h4></article>
-        <p>Varkenshaasje  met een saus van gorgonzola</p>
+        <article class="prijs"><h4>&#8364;17</p></h4></article>
+        <p>Rode curry diverse groenten en tofu in kokosmelk en Thaise kruiden met basmatirijst  </p>
       </section>
       <p></p>
 
@@ -172,44 +172,38 @@
     <a class="accordion-section-title" href="#accordion-3">Nagerecht</a>
     <div id="accordion-3" class="accordion-section-content">
       <section class="gerecht">
-        <article class="prijs"><h4>€20</h4></article>
-        <p>soep die echt llllllllllllllllllllllllllllllllleeeeeeeeeeeeeeeeeekkkkkkkkkkkkker is!</p>
+        <article class="prijs"><h4>&#8364;7.50</h4></article>
+        <p>Hollands-dessert bitterkoekjes bavaroise kletskop met hopjes ijs boerenjongens taart-bokkenpootjes parfait</p>
       </section>
       <p></p>
 
       <section class="gerecht">
-        <article class="prijs"><h4>€20</h4></article>
-        <p>soep die echt llllllllllllllllllllllllllllllllleeeeeeeeeeeeeeeeeekkkkkkkkkkkkker is!</p>
+        <article class="prijs"><h4>&#8364;7.50</h4></article>
+        <p>Klassiek-dessert: Vanilleroomijs met chocosaus, slagroomsoesje, appeltaartje, chocolademousse en cr&#234;me brulee.</p>
       </section>
       <p></p>
 
       <section class="gerecht">
-        <article class="prijs"><h4>€20</h4></article>
-        <p>soep die echt llllllllllllllllllllllllllllllllleeeeeeeeeeeeeeeeeekkkkkkkkkkkkker is!</p>
+        <article class="prijs"><h4>&#8364;7.50</h4></article>
+        <p>Italiaans-dessert: Tiramisu mousse met lange vingers, amarettoparfait, ijs van moscato d&aring;sti, casata en limoncello... ijskoud.</p>
       </section>
       <p></p>
 
       <section class="gerecht">
-        <article class="prijs"><h4>€20</h4></article>
-        <p>soep die echt llllllllllllllllllllllllllllllllleeeeeeeeeeeeeeeeeekkkkkkkkkkkkker is!</p>
+        <article class="prijs"><h4>&#8364;7.50</h4></article>
+        <p>Chocolade-dessert: Chocosorbet, chocomousse, chocotaartje, chocoparfait en roomijs met chocosaus.</p>
       </section>
       <p></p>
 
       <section class="gerecht">
-        <article class="prijs"><h4>€20</h4></article>
-        <p>soep die echt llllllllllllllllllllllllllllllllleeeeeeeeeeeeeeeeeekkkkkkkkkkkkker is!</p>
+        <article class="prijs"><h4>&#8364;10</h4></article>
+        <p>Santpoorts-zooitje: Laat de kok zijn gang maar gaan</p>
       </section>
       <p></p>
 
       <section class="gerecht">
-        <article class="prijs"><h4>€20</h4></article>
-        <p>soep die echt llllllllllllllllllllllllllllllllleeeeeeeeeeeeeeeeeekkkkkkkkkkkkker is!</p>
-      </section>
-      <p></p>
-
-      <section class="gerecht">
-        <article class="prijs"><h4>€20</h4></article>
-        <p>soep die echt llllllllllllllllllllllllllllllllleeeeeeeeeeeeeeeeeekkkkkkkkkkkkker is!</p>
+        <article class="prijs"><h4>&#8364;10</h4></article>
+        <p>Kaasplankje: met noten brood en vijgenjam</p>
       </section>
       <p></p>
 
@@ -222,46 +216,46 @@
 
 
 
-    <a class="accordion-section-title" href="#accordion-4">Groeps menu</a>
+    <!-- <a class="accordion-section-title" href="#accordion-4">Groeps menu</a>
     <div id="accordion-4" class="accordion-section-content">
       <section class="gerecht">
-        <article class="prijs"><h4>€20</h4></article>
+        <article class="prijs"><h4>&#8364;20</h4></article>
         <p>soep die echt llllllllllllllllllllllllllllllllleeeeeeeeeeeeeeeeeekkkkkkkkkkkkker is!</p>
       </section>
       <p></p>
 
       <section class="gerecht">
-        <article class="prijs"><h4>€20</h4></article>
+        <article class="prijs"><h4>&#8364;20</h4></article>
         <p>soep die echt llllllllllllllllllllllllllllllllleeeeeeeeeeeeeeeeeekkkkkkkkkkkkker is!</p>
       </section>
       <p></p>
 
       <section class="gerecht">
-        <article class="prijs"><h4>€20</h4></article>
+        <article class="prijs"><h4>&#8364;20</h4></article>
         <p>soep die echt llllllllllllllllllllllllllllllllleeeeeeeeeeeeeeeeeekkkkkkkkkkkkker is!</p>
       </section>
       <p></p>
 
       <section class="gerecht">
-        <article class="prijs"><h4>€20</h4></article>
+        <article class="prijs"><h4>&#8364;20</h4></article>
         <p>soep die echt llllllllllllllllllllllllllllllllleeeeeeeeeeeeeeeeeekkkkkkkkkkkkker is!</p>
       </section>
       <p></p>
 
       <section class="gerecht">
-        <article class="prijs"><h4>€20</h4></article>
+        <article class="prijs"><h4>&#8364;20</h4></article>
         <p>soep die echt llllllllllllllllllllllllllllllllleeeeeeeeeeeeeeeeeekkkkkkkkkkkkker is!</p>
       </section>
       <p></p>
 
       <section class="gerecht">
-        <article class="prijs"><h4>€20</h4></article>
+        <article class="prijs"><h4>&#8364;20</h4></article>
         <p>soep die echt llllllllllllllllllllllllllllllllleeeeeeeeeeeeeeeeeekkkkkkkkkkkkker is!</p>
       </section>
       <p></p>
 
       <section class="gerecht">
-        <article class="prijs"><h4>€20</h4></article>
+        <article class="prijs"><h4>&#8364;20</h4></article>
         <p>soep die echt llllllllllllllllllllllllllllllllleeeeeeeeeeeeeeeeeekkkkkkkkkkkkker is!</p>
       </section>
       <p></p>
@@ -276,46 +270,46 @@
 
 
 
-    <a class="accordion-section-title" href="#accordion-5">Kerst menu</a>
+    <!-- <a class="accordion-section-title" href="#accordion-5">Kerst menu</a>
     <div id="accordion-5" class="accordion-section-content">
       <section class="gerecht">
-        <article class="prijs"><h4>€20</h4></article>
+        <article class="prijs"><h4>&#8364;20</h4></article>
         <p>soep die echt llllllllllllllllllllllllllllllllleeeeeeeeeeeeeeeeeekkkkkkkkkkkkker is!</p>
       </section>
       <p></p>
 
       <section class="gerecht">
-        <article class="prijs"><h4>€20</h4></article>
+        <article class="prijs"><h4>&#8364;20</h4></article>
         <p>soep die echt llllllllllllllllllllllllllllllllleeeeeeeeeeeeeeeeeekkkkkkkkkkkkker is!</p>
       </section>
       <p></p>
 
       <section class="gerecht">
-        <article class="prijs"><h4>€20</h4></article>
+        <article class="prijs"><h4>&#8364;20</h4></article>
         <p>soep die echt llllllllllllllllllllllllllllllllleeeeeeeeeeeeeeeeeekkkkkkkkkkkkker is!</p>
       </section>
       <p></p>
 
       <section class="gerecht">
-        <article class="prijs"><h4>€20</h4></article>
+        <article class="prijs"><h4>&#8364;20</h4></article>
         <p>soep die echt llllllllllllllllllllllllllllllllleeeeeeeeeeeeeeeeeekkkkkkkkkkkkker is!</p>
       </section>
       <p></p>
 
       <section class="gerecht">
-        <article class="prijs"><h4>€20</h4></article>
+        <article class="prijs"><h4>&#8364;20</h4></article>
         <p>soep die echt llllllllllllllllllllllllllllllllleeeeeeeeeeeeeeeeeekkkkkkkkkkkkker is!</p>
       </section>
       <p></p>
 
       <section class="gerecht">
-        <article class="prijs"><h4>€20</h4></article>
+        <article class="prijs"><h4>&#8364;20</h4></article>
         <p>soep die echt llllllllllllllllllllllllllllllllleeeeeeeeeeeeeeeeeekkkkkkkkkkkkker is!</p>
       </section>
       <p></p>
 
       <section class="gerecht">
-        <article class="prijs"><h4>€20</h4></article>
+        <article class="prijs"><h4>&#8364;20</h4></article>
         <p>soep die echt llllllllllllllllllllllllllllllllleeeeeeeeeeeeeeeeeekkkkkkkkkkkkker is!</p>
       </section>
       <p></p>
