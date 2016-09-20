@@ -7,7 +7,6 @@
 
     background-image: url(http://lorempixel.com/500/500/food/);
     background-size: cover;
-    background-size: 125%;
     background-repeat: no-repeat;
     background-position: center center;
 
@@ -18,45 +17,50 @@
 }
 
 .foodimage:nth-child(1) {
-    background-image: url(../img/door/voor1.jpg);
+    background-image: url(../img/door/asperges.jpeg);
 }
 .foodimage:nth-child(2) {
     background-image: url(../img/door/voor2.jpg);
 }
 .foodimage:nth-child(3) {
-    background-image: url(../img/door/voor3.jpg);
+    background-image: url(../img/door/sfeer3.jpg);
 }
 .foodimage:nth-child(4) {
-    background-image: url(../img/door/voor4.jpg);
+    background-image: url(../img/door/gado.jpg);
 }
 .foodimage:nth-child(5) {
     background-image: url(../img/door/sfeer1.jpg);
 }
 .foodimage:nth-child(6) {
-    background-image: url(../img/door/sfeer3.jpg);
+    background-image: url(../img/door/garnaal.jpg);
 }
 .foodimage:nth-child(7) {
-    background-image: url(../img/door/na3.jpg);
+    background-image: url(../img/door/salade.jpg);
 }
 .foodimage:nth-child(8) {
     background-image: url(../img/door/na4.jpg);
 }
 .foodimage:nth-child(9) {
-    background-image: url(../img/door/na5.jpg);
+    background-image: url(../img/door/voor4.jpg);
 }
 .foodimage:nth-child(10) {
-    background-image: url(../img/door/hoofd4.jpg);
+    background-image: url(../img/door/ravi.jpg);
 }
 .foodimage:nth-child(11) {
     background-image: url(../img/door/hoofd2.jpg);
 }
 .foodimage:nth-child(12) {
-    background-image: url(../img/door/hoofd1.jpg);
+    background-image: url(../img/door/Kaasfondue.jpg);
 }
 
-.foodimage:hover {
+/*.foodimage:hover {
     background-size: 100%;
-}
+
+    -webkit-transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -o-transition: all .5s ease-in-out;
+    transition: all .5s ease-in-out;
+}*/
 
 .tekst {
     width: 100%;

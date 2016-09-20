@@ -2,73 +2,73 @@
 
   <article class="foodimage">
     <article class="tekst">
-      <p>Hi</p>
+      <p>Asperges met boerenbeenham</p>
     </article>
   </article>
 
   <article class="foodimage">
     <article class="tekst">
-      <p>Hi</p>
+      <p>Zalm tartaar</p>
     </article>
   </article>
 
   <article class="foodimage">
     <article class="tekst">
-      <p>Hi</p>
+      <p>Verse kruiden</p>
     </article>
   </article>
 
   <article class="foodimage">
     <article class="tekst">
-      <p>Hi</p>
+      <p>gado-gado met curry bites</p>
     </article>
   </article>
 
   <article class="foodimage">
     <article class="tekst">
-      <p>Hi</p>
+      <p>Huisgemaakte kruiden pesto</p>
     </article>
   </article>
 
   <article class="foodimage">
     <article class="tekst">
-      <p>Hi</p>
+      <p>Garnalen kroketjes</p>
     </article>
   </article>
 
   <article class="foodimage">
     <article class="tekst">
-      <p>Hi</p>
+      <p>Tonijn salade</p>
     </article>
   </article>
 
   <article class="foodimage">
     <article class="tekst">
-      <p>Hi</p>
+      <p>Fudge van pure chocolade</p>
     </article>
   </article>
 
   <article class="foodimage">
     <article class="tekst">
-      <p>Hi</p>
+      <p>Water kerssoep</p>
     </article>
   </article>
 
   <article class="foodimage">
     <article class="tekst">
-      <p>Hi</p>
+      <p>Ravioli met doperwten en munt</p>
     </article>
   </article>
 
   <article class="foodimage">
     <article class="tekst">
-      <p>Hi</p>
+      <p>Lamscarree</p>
     </article>
   </article>
 
   <article class="foodimage">
     <article class="tekst">
-      <p>Hi</p>
+      <p>Kaasfondue</p>
     </article>
   </article>
 
